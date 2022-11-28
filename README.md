@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harnihkeh
-- 👀 I’m interested in Software Engineering
+- 👀 I’m currently enrolled in Software Engineering at Alx Africa
 - 🌱 I’m currently learning Website Design
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me wuraola1000@gmail.con
